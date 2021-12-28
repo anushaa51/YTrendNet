@@ -95,7 +95,7 @@ The last layer uses Softmax for activation.
 
 ## Contributors
 <p><strong>Gokul Vasudeva</strong>   <a href="https://github.com/gokulvsd">github.com/gokulvsd</a></p>
-<p><strong>Anusha A</strong>   <a href="https://github.com/anushab05">github.com/anushab05</a></p>
+<p><strong>Anusha A</strong>   <a href="https://github.com/anushaa51">github.com/anushaa51</a></p>
 
 <br />
 
